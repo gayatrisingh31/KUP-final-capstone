@@ -31,8 +31,7 @@ stages
     {
        
       sh '''
-      cd client
-      npm install
+      npm run build
       '''
     }
   }
