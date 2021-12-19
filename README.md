@@ -1,5 +1,6 @@
 # Notes App NodeMongo
 
+Some changes
 This is a basic App to manage simple Notes on the web using Javascript Technologies like Nodejs, Mongodb, and other related technologies.
 
 This app can do:
